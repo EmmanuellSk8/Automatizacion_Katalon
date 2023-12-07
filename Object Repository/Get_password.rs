@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Get_password</name>
+   <tag></tag>
+   <elementGuidId>ebb42d97-573f-40fd-b4f7-c386fff3582b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;login&quot;]/div/div/div[2]/form/div[1]/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;login&quot;]/div/div/div[2]/form/div[1]/div[2]/div/div/input</value>
+      <webElementGuid>7f5bc96b-ec0b-4f1d-bd2b-0b0a7088b170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>25d159cd-c178-4f20-8be0-f8cdc80873c4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

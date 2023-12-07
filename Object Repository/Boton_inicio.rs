@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Boton_inicio</name>
+   <tag></tag>
+   <elementGuidId>aa8671d1-0cc9-40de-b366-10513a53aa14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btn-make-appointment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btn-make-appointment&quot;]</value>
+      <webElementGuid>cb4d3ea2-87d7-43f2-9d5b-8e513c2073eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f231a019-94a7-454c-9292-71d22c0411ba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

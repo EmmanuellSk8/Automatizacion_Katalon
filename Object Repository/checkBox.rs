@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkBox</name>
+   <tag></tag>
+   <elementGuidId>9f9a3daa-467c-4cc5-8251-f1e3e00fd7fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;chk_hospotal_readmission&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;chk_hospotal_readmission&quot;]</value>
+      <webElementGuid>1e1b239a-28b3-4c26-80fe-51803c123401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d3c3118d-9749-48ec-8246-869519980c1d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

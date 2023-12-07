@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioButton</name>
+   <tag></tag>
+   <elementGuidId>6f87f989-555c-4f34-b9cd-90e376937a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;radio_program_medicaid&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;radio_program_medicaid&quot;]</value>
+      <webElementGuid>98093b0e-ebc8-4582-939c-26438ce8b4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b1a3cc13-0587-478f-b1b1-a2a449e988be</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
